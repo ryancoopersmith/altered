@@ -1,14 +1,14 @@
 {
-  "name": "altered",
+  "name": "Altered",
   "main": "./lib/altered",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.0.1",
+  "description": "Alter your HTML to add an alt attribute",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "altered:toggle"
   },
-  "repository": "https://github.com/atom/altered",
+  "repository": "https://github.com/ryancoopersmith/altered",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
