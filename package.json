@@ -2,7 +2,7 @@
   "name": "Altered",
   "main": "./lib/altered",
   "version": "1.0.0",
-  "description": "Alter your HTML to add an alt attribute",
+  "description": "Alter your HTML to add an alt attribute to img tags that are missing one",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "altered:toggle"
