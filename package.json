@@ -1,7 +1,7 @@
 {
   "name": "Altered",
   "main": "./lib/altered",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Alter your HTML to add an alt attribute to img tags that are missing one",
   "keywords": [],
   "activationCommands": {
