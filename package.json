@@ -1,7 +1,7 @@
 {
   "name": "Altered",
   "main": "./lib/altered",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Alter your HTML to add an alt attribute",
   "keywords": [],
   "activationCommands": {
